@@ -14,23 +14,24 @@
   <img src="tech_stack/nodejs.svg" height=48px>
   <img src="tech_stack/go.svg" height=48px>
   <img src="tech_stack/dart.svg" height=48px>
+  <img src="tech_stack/vue.svg" height=48px>
   <img src="tech_stack/flutter.svg" height=48px>
   <img src="tech_stack/redis.svg" height=48px>
   <img src="tech_stack/kafka-icon.svg" height=48px>
   <img src="tech_stack/postgresql-logo.svg" height=48px>
-  <img src="tech_stack/aws-dynamodb.svg" height=48px>
-  <img src="tech_stack/aws-lambda.svg" height=48px>
-  <img src="tech_stack/aws-ec2.svg" height=48px>
+  <img src="tech_stack/mongodb-icon.svg" height=48px>
+  
+
   
   <br>
   
   <img src="tech_stack/figma.svg" height=48px>
   <img src="tech_stack/youtrack.svg" height=48px>
-  <img src="tech_stack/copyleft.svg" height=48px>
   <img src="tech_stack/debian.svg" height=48px>
   <img src="tech_stack/docker-icon.svg" height=48px>
   <img src="tech_stack/aws-dynamodb.svg" height=48px>
-  <img src="tech_stack/aws-dynamodb.svg" height=48px>
+  <img src="tech_stack/aws-lambda.svg" height=48px>
+  <img src="tech_stack/aws-ec2.svg" height=48px>
   
   
 </div>
