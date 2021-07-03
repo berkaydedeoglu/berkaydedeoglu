@@ -8,7 +8,19 @@
 
 ## Tech Stack
 
+<div align=center> 
 
+  <img src="tech_stack/python.svg" height=48px>
+  <img src="tech_stack/nodejs.svg" height=48px>
+  <img src="tech_stack/go.svg" height=48px>
+  <img src="tech_stack/dart.svg" height=48px>
+  <img src="tech_stack/flutter.svg" height=48px>
+  <img src="tech_stack/redis.svg" height=48px>
+  <img src="tech_stack/kafka-icon.svg" height=48px>
+  <img src="tech_stack/aws-dynamodb.svg" height=48px>
+  
+  
+</div>
 
 
 <!--
