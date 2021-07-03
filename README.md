@@ -5,6 +5,12 @@
 🙈 An avid Flutter developer at side projects
 </p>
 
+---
+
+- **Current Work:** Full Stack Developer [@Renault Group](https://www.renaultgroup.com/en/)
+- **Twitter:** [@berkaydedeoglu](https://twitter.com/BerkayDedeoglu)
+- **Vim vs Emacs:** Not sure yet. But i'm using **nvim** for now
+<!-- **Website**: gelecek -->
 
 
 ## Tech Stack
