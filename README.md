@@ -7,7 +7,7 @@
 
 ---
 
-- **Current Work:** Full Stack Developer [@Renault Group](https://www.renaultgroup.com/en/)
+- **Current Work:** Full Stack Developer [@BiTaksi](https://www.bitaksi.com/)
 - **Twitter:** [@berkaydedeoglu](https://twitter.com/BerkayDedeoglu)
 - **Vim vs Emacs:** Not sure yet. But i'm using **nvim** for now
 <!-- **Website**: gelecek -->
