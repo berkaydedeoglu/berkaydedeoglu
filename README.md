@@ -1,8 +1,6 @@
 <h1 align= center style="font-size=9">👋! It's Berkay</h1>
 
-<p align=center> 😕 A back-end developer at work.
-🎠 A something-end developer in my dreams, <br>
-🙈 An avid Flutter developer at side projects
+<p align=center> 😕 A back-end developer at work
 </p>
 
 ---
