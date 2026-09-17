@@ -4,8 +4,6 @@
 </p>
 
 ---
-
-- **Current Work:** Backend Developer [@Eva Inc](https://www.bitaksi.com/)
 - **Twitter:** [@berkaydedeoglu](https://twitter.com/BerkayDedeoglu)
 - **Vim vs Emacs:** Not sure yet. But i'm using **nvim** for now
 <!-- **Website**: gelecek -->
